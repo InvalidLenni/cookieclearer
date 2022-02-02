@@ -1,0 +1,14 @@
+.light-mode {
+    background-color: white;
+    color: #131b21;
+  }
+
+
+body {
+    font-family: 'Poppins', sans-serif !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    background-color: #131b21;
+    color: gray;
+}
