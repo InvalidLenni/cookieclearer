@@ -1,0 +1,17 @@
+{
+    "name": "invalidlenni",
+    "version": "v1.0.0",
+    "description": "On the website can you find my projects, about me and more.",
+    "main": "./backend/api/app.js",
+    "scripts": {
+        "Chrome": "./chrome/popup.html",
+        <!--"Edge": "./edge/popup.html",
+        <!--"Firefox": "./firefox/popup.html"-->
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/InvalidLenni/cookieclearer"
+    },
+    "author": "InvalidLenni",
+    "license": "MIT"
+}
