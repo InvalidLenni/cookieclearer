@@ -1,10 +1,15 @@
 .label {
     color: white;
-    padding: 8px;
+    margin-bottom: 15px;
+    padding: 4px 12px;
   }
   
 .success {background-color: #04AA6D;} /* Green */
 .info {background-color: #2196F3;} /* Blue */
+.note {
+    background-color: #e7f3fe;
+    border-left: 6px solid #2196F3;
+}
 .warning {background-color: #ff9800;} /* Orange */
 .danger {background-color: #f44336;} /* Red */
 .other {background-color: #e7e7e7; color: black;} /* Gray */
